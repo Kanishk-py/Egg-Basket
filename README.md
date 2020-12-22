@@ -5,6 +5,7 @@ This is the Project Submission by `Kanishk Singhal(20110091)`
 
 >Modules imported
 - `Pygame`
+   - `mixer` 
 - `Random`
 - `Math`
 
@@ -22,5 +23,5 @@ Background images downloaded from [Freepik](https://www.freepik.com/).
 
 Font used downloaded from [dafont](https://www.dafont.com/).
 
-[Pygame tutorial from freecodecamp.org](https://youtu.be/FfWpgLFMI7w).
+Pygame tutorial from [freecodecamp.org](https://youtu.be/FfWpgLFMI7w).
 
