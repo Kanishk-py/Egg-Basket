@@ -3,7 +3,7 @@
 This is the Project Submission by `Kanishk Singhal(20110091)`
 
 
-Modules imported
+>Modules imported
 - `Pygame`
 - `Random`
 - `Math`
@@ -12,13 +12,15 @@ Modules imported
 To run the project simply extract the downloaded zip file and run `egg basket.py`.
 To get the code, right click on `egg basket.py` and open with your code editor.
 
-Code written in `Microsoft Visual Code`
+Code written in `Microsoft Visual Code`.
 
 > Mentions
 
-Vector images downloaded from [flaticon](https://www.flaticon.com/)
-Background images downloaded from [Freepik](https://www.freepik.com/)
-Font used downloaded from [dafont](https://www.dafont.com/)
+Vector images downloaded from [flaticon](https://www.flaticon.com/).
 
-[Pygame tutorial from freecodecamp.org](https://youtu.be/FfWpgLFMI7w)
+Background images downloaded from [Freepik](https://www.freepik.com/).
+
+Font used downloaded from [dafont](https://www.dafont.com/).
+
+[Pygame tutorial from freecodecamp.org](https://youtu.be/FfWpgLFMI7w).
 
