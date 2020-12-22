@@ -3,8 +3,8 @@
 This is the Project Submission by `Kanishk Singhal(20110091)`
 
 
->Modules imported
-- `Pygame`
+>Modules imported in python(3.9.0)
+- `Pygame(2.0.0)`
    - `mixer` 
 - `Random`
 - `Math`
